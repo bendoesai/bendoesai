@@ -1,8 +1,9 @@
 - 👋 Hi, I’m Ben
 - 👀 Currently Obsessed with AI
 - 🌱 Studying Electrical Engineering at RIT
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ Currently looking for Co-ops in AI Research and AI Ethics. Also open to research opportunities!
+
+- Monokai is my favorite color scheme. What's yours?
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bwb5165&theme=monokai&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
