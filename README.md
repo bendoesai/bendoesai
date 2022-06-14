@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ben
 - 👀 Currently Obsessed with AI
 - 🌱 Studying Electrical Engineering at RIT
-- 💞️ Currently looking for Co-ops in AI Research and AI Ethics. Also open to research opportunities!
+- 💞️ Currently looking for Co-ops in AI and AI Ethics. Also open to research opportunities!
 - Monokai is my favorite color scheme. What's yours?
 
 <!---
