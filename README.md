@@ -1,6 +1,8 @@
+I'm an AI researcher and developer trying to make a safer cyber world every day. 
 
+Currently I'm researching deepfake detection at Rochester Institute of Technology with the intent to pursue a PhD after I graduate.
 
-
+My primary languages and toolchains involve Python, C/C++, PyTorch, Tensorflow/Keras, and recently React.
 
 # Let's change the world together
 <!---
