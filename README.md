@@ -1,6 +1,6 @@
 I'm an AI researcher and developer trying to experience as many aspects of the field as possible. 
 
-Currently I'm researching deepfake detection at Rochester Institute of Technology with the intent to pursue a PhD after I graduate.
+Currently I'm researching deepfake detection and adversarial machine learning at Rochester Institute of Technology with the intent to pursue a PhD.
 
 My primary languages and toolchains involve Python, C/C++, PyTorch, Tensorflow/Keras, and recently React.
 
